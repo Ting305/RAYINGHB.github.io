@@ -3,7 +3,7 @@
 /*視窗背景色設定*/
 body{
     background-color: #f8f4a7;
-    background-image:url("https://github.com/Ting305/hbb.github.io/blob/6bc43c8e0da670b5c31a2bc13f92dd549064b0e1/10011/cat.jpg");
+    background-image:url(/cat.jpg);
     background-repeat:repeat-x;
     }
 
